@@ -11,7 +11,7 @@ const Head = ({ metadata }) => (
     <title itemProp="name" lang="en">
       {metadata.title}
     </title>
-    <link rel="canonical" href="https://brittanychiang.com" />
+    <link rel="canonical" href="https://www.thainnoel.com" />
 
     <meta name="description" content={metadata.description} />
     <meta name="keywords" content={config.siteKeywords} />

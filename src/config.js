@@ -2,8 +2,8 @@ module.exports = {
   siteTitle: 'Thain | Blockchain & Web3 Engineer',
   siteDescription: '',
   siteKeywords:
-    'Thain, Thain, dansofter, software engineer, front-end engineer, web developer, javascript, malaysia',
-  siteUrl: 'https://http://thainnoel.me/',
+    'Thain, Thain, tmpacifitech, software engineer, front-end engineer, web developer, javascript, solidity developer',
+  siteUrl: 'https://www.thainnoel.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
