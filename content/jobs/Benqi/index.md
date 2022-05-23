@@ -9,5 +9,5 @@ url: 'https://benqi.fi'
 
 - Modified and re-launched Compound protocol on Avalanche C-Chain.
 - Built and maintained strategic relationships with potential investors and business partners and brainstormed new ideas.
-- Mostly worked as a senior web developer utilizing JavaScript, TypeScript, Node.js, and DevOps tech stacks to develop frontend and backend of web applications.
+- Worked as a frontend enginner to build the BENQI DApp.
 - Led a development team following Agile/Scrum methodology best practices.
